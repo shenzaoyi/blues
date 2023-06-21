@@ -75,40 +75,37 @@ content {
   /* 由于不想让标题像大字报一样，新增一点特效啊 */
  }
  #write h2{
-  color:lightslategray;
-  font-size: 45px;
+  color:black;
+  font-size: 35px;
   margin:20px;
   letter-spacing: 0.45em;
     word-spacing: 0.1em;  
-    text-decoration: underline;
- }
+   }
  
   #write
  h3,
  h4,
  h5,
  h6{
-  color:darkolivegreen;
+  color:black;
   margin:20px;
   letter-spacing: 0.45em;
     word-spacing: 0.1em;
  }
  
 #write h3{
-  font-size: 35px;
-  text-decoration: underline;
- }
+  font-size: 30px;
+   }
 #write h4{
   font-size: 25px;
-  text-decoration: underline;
- }
+   }
 #write h5{
   font-size: 20px;
-  text-decoration: underline;
+  
  }
 #write h6{
   font-size: 20px;
-  text-decoration: underline;
+  
  }
 
   #write h1:hover{
